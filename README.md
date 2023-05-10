@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmaiia&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmaiia" /> </p>
 
-- Hi, I'm work in this moment in a academic project called [workshop-springboot3-jpa](https://github.com/rafaelmaiia/workshop-springboot3-jpa).
+- Hi, I'm work in this moment in a academic project called [dslist](https://github.com/rafaelmaiia/dslist).
 
 - I'm studying the 1st semester in systems analysis and development at Estácio de Sá University. **However, I started my studies in the area in March 2022, consuming a lot of free content on Youtube and some paid courses on Udemy.**
 
