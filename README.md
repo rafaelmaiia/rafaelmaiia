@@ -5,7 +5,7 @@
 
 - Hi, I'm work in this moment in a academic project called [workshop-springboot-mongodb](https://github.com/rafaelmaiia/workshop-springboot-mongodb).
 
-- I'm studying the 1st semester in systems analysis and development at Estácio de Sá University. **However, I started my studies in the area in March 2022, consuming a lot of free content on Youtube and some paid courses on Udemy.**
+- I'm studying the 2st semester in systems analysis and development at Estácio de Sá University. **However, I started my studies in the area in March 2022, consuming a lot of free content on Youtube and some paid courses on Udemy.**
 
 - Contact email: **rafaelmaia3002@gmail.com**
 
