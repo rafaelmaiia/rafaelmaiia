@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Maia</h1>
-<h3 align="center">An apprentice developer passionate about technology.</h3>
+<h3 align="center">Back-End developer in academic training, with experience in Java and Spring Framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmaiia&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmaiia" /> </p>
 
-- Hi, I'm work in this moment in a academic project called [workshop-springboot-mongodb](https://github.com/rafaelmaiia/workshop-springboot-mongodb).
+- Hello guys, at the moment I am deepening my knowledge with the Spring Framework and applying the knowledge to the study project [rest-with-springboot-erudio](https://github.com/rafaelmaiia/rest-with-springboot-erudio).
 
-- I'm studying the 2st semester in systems analysis and development at Estácio de Sá University. **However, I started my studies in the area in March 2022, consuming a lot of free content on Youtube and some paid courses on Udemy.**
+- I'm studying the 2st semester in systems analysis and development at Estácio de Sá University. **However, I started my studies in the area in March 2022, consuming a lot of free content on Youtube and some varieties of courses on Udemy.**
 
 - Contact email: **rafaelmaia3002@gmail.com**
 
