@@ -18,7 +18,7 @@
 - **Frameworks**: Spring Boot, Spring Data, Spring Security, Hibernate, JUnit, React, jQuery
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB, H2
 - **Ferramentas e Tecnologias**: Docker, Kubernates, Git, GitHub, Maven, Postman, REST APIs, AWS, Flyway
-- **Frontend**: React, HTML, CSS, JavaScript, jQuery, Bootstrap
+- **Frontend**: React, HTML, CSS, JavaScript, jQuery
 
 <h2>💼 Projetos Principais</h2>
 
@@ -44,7 +44,7 @@ Sistema web que organiza jogos eletrônicos em listas personalizadas. O projeto 
 [Agency New - Projeto Frontend](https://github.com/rafaelmaiia/agency-new)<br/>
 Projeto frontend para uma agência de serviços digitais, focado em criar uma interface intuitiva e responsiva utilizando HTML, CSS, JavaScript, e jQuery. O projeto explora boas práticas de desenvolvimento front-end.
 
-- **Tecnologias**: HTML, CSS, jQuery, JavaScript, Bootstrap.
+- **Tecnologias**: HTML, CSS, JavaScript, jQuery.
 
 <h2>📫 Entre em Contato</h2
 
@@ -91,9 +91,6 @@ Projeto frontend para uma agência de serviços digitais, focado em criar uma in
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
