@@ -8,7 +8,7 @@
 <h2>Sobre Mim</h2>
 
 <p align="left">
-  Sou Rafael Maia, desenvolvedor back-end com 23 anos, focado em criar soluções robustas e de alta performance. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
+  Sou Rafael Maia, desenvolvedor back-end com 24 anos, focado em criar soluções robustas e de alta performance. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
   Embora meu foco seja no back-end, também possuo habilidades em JavaScript e React e estou constantemente me aperfeiçoando no desenvolvimento front-end. Estou sempre buscando novas tecnologias e boas práticas de desenvolvimento para melhorar meu conhecimento e entregar o melhor resultado possível.
 </p>
 
