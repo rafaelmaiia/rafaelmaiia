@@ -15,7 +15,7 @@
 <h2>🚀 Habilidades Técnicas</h2>
 
 - **Linguagens**: Java, JavaScript
-- **Frameworks**: Spring Boot, Spring Data, Spring Security, Hibernate, JUnit, React, jQuery
+- **Frameworks**: Spring Boot, Spring Data, Spring Security, Hibernate, JUnit
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB, H2
 - **Ferramentas e Tecnologias**: Docker, Kubernates, Git, GitHub, Maven, Postman, REST APIs, AWS, Flyway
 - **Frontend**: React, HTML, CSS, JavaScript, jQuery
@@ -30,11 +30,13 @@ Aplicação web para obter dados relacionados às vendas de uma empresa. Permite
 - **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
 
 [API Cadastro de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
-API RESTful para cadastro e gerenciamento de usuários e livros, com autenticação via JWT, segurança com Spring Security e containerização com Docker.
+Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
 
-- **Tópicos trabalhados**: Integração com MySQL, migrações com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação com Swagger.
-- **Deploy**: Implantação na AWS (ECS, EC2, RDS).
-- **Tecnologias**: Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI.
+- **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
+- **Tópicos trabalhados:**: Integração com MySQL, migrações automatizadas com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação via Swagger/OpenAPI, Componentes React, React Hook useState e useEffect, requisições com Axios.
+- **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
+- **Deploy:**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
+- **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
 
 [DSList - Sistema de Coleção de Jogos](https://github.com/rafaelmaiia/dslist)<br/>
 Sistema web que organiza jogos eletrônicos em listas personalizadas. O projeto utiliza Java, Spring Boot e PostgreSQL com integração de APIs RESTful. Inclui um CRUD completo para gerenciar listas e jogos.
