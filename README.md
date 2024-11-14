@@ -28,7 +28,7 @@ Aplicação completa para cadastro e gerenciamento de usuários e livros, com ba
 - **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
 - **Tópicos trabalhados:**: Integração com MySQL, migrações automatizadas com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação via Swagger/OpenAPI, Componentes React, React Hook useState e useEffect, requisições com Axios.
 - **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
-- **Deploy:**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
+- **Deploy**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
 - **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
 
 [DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
