@@ -22,13 +22,6 @@
 
 <h2>💼 Projetos Principais</h2>
 
-[DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
-Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
-
-- **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
-- **Integração**: Back-end com Java e Spring, banco de dados relacional e deploy com CI/CD (AWS).
-- **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
-
 [API Cadastro de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
 Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
 
@@ -37,6 +30,13 @@ Aplicação completa para cadastro e gerenciamento de usuários e livros, com ba
 - **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
 - **Deploy:**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
 - **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
+
+[DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
+Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
+
+- **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
+- **Integração**: Back-end com Java e Spring, banco de dados relacional e deploy com CI/CD (AWS).
+- **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
 
 [DSList - Sistema de Coleção de Jogos](https://github.com/rafaelmaiia/dslist)<br/>
 Sistema web que organiza jogos eletrônicos em listas personalizadas. O projeto utiliza Java, Spring Boot e PostgreSQL com integração de APIs RESTful. Inclui um CRUD completo para gerenciar listas e jogos.
