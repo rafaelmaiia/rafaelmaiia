@@ -1,54 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rafael Maia 😁</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Soluções Escaláveis | APIs RESTful | Integração de Bancos de Dados</h3>
+# Hi 👋, I'm Rafael Maia 😁
+- 💻 Desenvolvedor Java Back-End
+- 👨‍🎓 Aluno da ESTACIO - Universidade Estácio de Sá
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rafaelmaiia&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmaiia" /> 
-</p>
+## 💫 Sobre mim:
 
-<h2>Sobre Mim</h2>
+🔭 Sou Rafael Maia, desenvolvedor back-end com 24 anos, focado em criar soluções robustas e de alta performance. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
+Embora meu foco seja no back-end, também possuo habilidades em JavaScript e React e estou constantemente me aperfeiçoando no desenvolvimento front-end. Estou sempre buscando novas tecnologias e boas práticas de desenvolvimento para melhorar meu conhecimento e entregar o melhor resultado possível.
 
-<p align="left">
-  Sou Rafael Maia, desenvolvedor back-end com 24 anos, focado em criar soluções robustas e de alta performance. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
-  Embora meu foco seja no back-end, também possuo habilidades em JavaScript e React e estou constantemente me aperfeiçoando no desenvolvimento front-end. Estou sempre buscando novas tecnologias e boas práticas de desenvolvimento para melhorar meu conhecimento e entregar o melhor resultado possível.
-</p>
-
-<h2>🚀 Habilidades Técnicas</h2>
-
-- **Linguagens**: Java, JavaScript
-- **Frameworks**: Spring Boot, Spring Data, Spring Security, Hibernate, JUnit
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, H2
-- **Ferramentas e Tecnologias**: Docker, Kubernates, Git, GitHub, Maven, Postman, REST APIs, AWS, Flyway
-- **Frontend**: React, HTML, CSS, JavaScript, jQuery
-
-<h2>💼 Projetos Principais</h2>
-
-[API Cadastro de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
-Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
-
-- **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
-- **Tópicos trabalhados:**: Integração com MySQL, migrações automatizadas com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação via Swagger/OpenAPI, Componentes React, React Hook useState e useEffect, requisições com Axios.
-- **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
-- **Deploy**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
-- **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
-
-[DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
-Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
-
-- **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
-- **Integração**: Back-end com Java e Spring, banco de dados relacional e deploy com CI/CD (AWS).
-- **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
-
-[DSList - Sistema de Coleção de Jogos](https://github.com/rafaelmaiia/dslist)<br/>
-Sistema web que organiza jogos eletrônicos em listas personalizadas. O projeto utiliza Java, Spring Boot e PostgreSQL com integração de APIs RESTful. Inclui um CRUD completo para gerenciar listas e jogos.
-
-- **Tecnologias**: Java, Spring Boot, PostgreSQL, H2, API REST, Docker.
-
-[Agency New - Projeto Frontend](https://github.com/rafaelmaiia/agency-new)<br/>
-Projeto frontend para uma agência de serviços digitais, focado em criar uma interface intuitiva e responsiva utilizando HTML, CSS, JavaScript, e jQuery. O projeto explora boas práticas de desenvolvimento front-end.
-
-- **Tecnologias**: HTML, CSS, JavaScript, jQuery.
-
-<h2>📫 Entre em Contato</h2
+### 🌐 Sociais:
 
 <div align="left">
   <a href="mailto:rafaelmaia.developer@gmail.com" target="blank">
@@ -62,7 +21,14 @@ Projeto frontend para uma agência de serviços digitais, focado em criar uma in
   </a>
 </div>
 
-<h2 align="left">🛠 Tecnologias e Ferramentas:</h2>
+## 💻 Tech Stack:
+
+- **Linguagens**: Java, JavaScript
+- **Frameworks**: Spring Boot, Spring Data, Spring Security, Hibernate, JUnit
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, H2
+- **Ferramentas e Tecnologias**: Docker, Kubernates, Git, GitHub, Maven, Postman, REST APIs, AWS, Flyway
+- **Frontend**: React, HTML, CSS, JavaScript, jQuery
+
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -109,8 +75,36 @@ Projeto frontend para uma agência de serviços digitais, focado em criar uma in
   </a> 
 </p>
 
-<h3 align="left">Estatísticas GitHub:</h3>
+## 💼 Principais Projetos
+
+[API Cadastro de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
+Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
+
+- **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
+- **Tópicos trabalhados:**: Integração com MySQL, migrações automatizadas com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação via Swagger/OpenAPI, Componentes React, React Hook useState e useEffect, requisições com Axios.
+- **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
+- **Deploy**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
+- **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
+
+[DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
+Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
+
+- **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
+- **Integração**: Back-end com Java e Spring, banco de dados relacional e deploy com CI/CD (AWS).
+- **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
+
+## 📊 GitHub Stats:</h3>
+
+### Contributions and Activity
+![](https://github-readme-stats.vercel.app/api?username=rafaelmaiia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+### Commit Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelmaiia&theme=dark&hide_border=false)
+
+### Top Languages
 <div align="left">
-  
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmaiia&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafaelmaiia" />
 </div>
+
+## 🚀 Procurando por oportunidades:
+Estou ativamente buscando oportunidades em desenvolvimento. Disponível para colaborações presenciais e online durante a manhã/tarde e tarde/noite.
