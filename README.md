@@ -77,7 +77,7 @@ Embora meu foco seja no back-end, também possuo habilidades em JavaScript e Rea
 
 ## 💼 Principais Projetos
 
-[API Cadastro de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
+[BookManager API - Sistema de Gerenciamento de Usuários e Livros com Spring Boot, React e Docker](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
 Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
 
 - **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
@@ -86,7 +86,7 @@ Aplicação completa para cadastro e gerenciamento de usuários e livros, com ba
 - **Deploy**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
 - **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
 
-[DsMeta - Análise de Vendas com Integração SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
+[MetaSales - Aplicação Full Stack para Monitoramento de Vendas e Envio de SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
 Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
 
 - **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
