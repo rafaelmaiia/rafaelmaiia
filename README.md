@@ -1,10 +1,10 @@
 # Hi 👋, I'm Rafael Maia 😁
-- 💻 Desenvolvedor Java Back-End
-- 👨‍🎓 Aluno da ESTACIO - Universidade Estácio de Sá
+- 💻 Desenvolvedor Back-End
+- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
 ## 💫 Sobre mim:
 
-🔭 Sou Rafael Maia, desenvolvedor back-end com 24 anos, focado em criar soluções robustas e de alta performance. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
+🔭 Desenvolvedor back-end focado em criar soluções robustas e de alta performance.. Minha experiência abrange Java, Spring Framework, APIs RESTful e integrações com bancos de dados como PostgreSQL e MySQL. <br/>
 Embora meu foco seja no back-end, também possuo habilidades em JavaScript e React e estou constantemente me aperfeiçoando no desenvolvimento front-end. Estou sempre buscando novas tecnologias e boas práticas de desenvolvimento para melhorar meu conhecimento e entregar o melhor resultado possível.
 
 ### 🌐 Sociais:
@@ -77,22 +77,21 @@ Embora meu foco seja no back-end, também possuo habilidades em JavaScript e Rea
 
 ## 💼 Principais Projetos
 
-[BookManager API - Sistema de Gerenciamento de Usuários e Livros com Spring Boot, React e Docker](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
-Aplicação completa para cadastro e gerenciamento de usuários e livros, com backend em Spring Boot e cliente em React. A API oferece uma estrutura RESTful segura e robusta, com autenticação JWT, segurança com Spring Security, e containerização com Docker. O cliente React permite uma interface de fácil uso, acessível via navegador, para gerenciar as informações dos usuários e dos livros cadastrados.
+[BookManager API - Sistema de Gerenciamento de Usuários e Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)<br/>
+Aplicação full stack com backend em Spring Boot e frontend em React, voltada para o cadastro, autenticação e gerenciamento de usuários e livros.
 
-- **Principais Funcionalidades:**: Cadastro, edição, e exclusão de usuários e livros, autenticação segura via JWT, e integração contínua para desenvolvimento ágil.
-- **Tópicos trabalhados:**: Integração com MySQL, migrações automatizadas com Flyway, testes unitários e de integração (JUnit 5, Mockito, REST Assured), documentação via Swagger/OpenAPI, Componentes React, React Hook useState e useEffect, requisições com Axios.
-- **Frontend**: Cliente em React para gerenciamento de dados com integração à API.
+- **Funcionalidades**: CRUD completo, autenticação JWT, segurança com Spring Security, testes (JUnit, Mockito), documentação Swagger e migrações Flyway.
+- **Frontend**: React com integração via Axios e componentes com useState e useEffect.
+- **Deploy**: Backend containerizado com Docker e implementado na AWS (ECS, EC2, RDS).
 - **Deploy**: Implementação do backend na AWS (ECS, EC2, RDS), possibilitando escalabilidade e robustez.
-- **Tecnologias:** Spring Boot 3, Java 17, MySQL, Flyway, Docker, JWT, AWS, Swagger/OpenAPI, React.
+- **Stack:** Java 17, Spring Boot 3, MySQL, Flyway, Docker, JWT, Swagger, AWS, React.
 
 [MetaSales - Aplicação Full Stack para Monitoramento de Vendas e Envio de SMS](https://github.com/rafaelmaiia/dsmeta) <br/>
-Aplicação web para obter dados relacionados às vendas de uma empresa. Permite a consulta de uma tabela com dados de vendedores, avaliação de metas alcançadas e envio de SMS para o vendedor destaque.
+Aplicação web full stack para exibir dados de vendas, acompanhar metas alcançadas e enviar SMS para o vendedor destaque. Desenvolvida durante evento promovido pela DevSuperior.
 
-- **Tópicos trabalhados**: Componentes React, DatePicker, React Hook useState e useEffect, requisições com Axios, integração com SMS, Toast notifications, API RESTful.
-- **Integração**: Back-end com Java e Spring, banco de dados relacional e deploy com CI/CD (AWS).
-- **Tecnologias**: React, Spring Boot, PostgreSQL, SMS integration, CI/CD.
-
+- **Funcionalidades**: Tabela interativa com dados de vendas por período, filtro por datas, destaque de vendedor com melhor desempenho e envio de SMS via Twilio.
+- **Tecnologias**: Java, Spring Boot, React, PostgreSQL, Twilio (SMS), Axios, Toast, DatePicker.
+- **Tópicos trabalhados**: Componentização com React, hooks (useState, useEffect), consumo de API RESTful, integração de backend e frontend, deploy com CI/CD (AWS).
 ## 📊 GitHub Stats:</h3>
 
 ### Contributions and Activity
