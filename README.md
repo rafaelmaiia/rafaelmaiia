@@ -32,6 +32,12 @@ Este é o projeto ao qual estou me dedicando atualmente. A ideia nasceu de uma n
 * **Tecnologias:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5.
 * **Status:** API RESTful (Back-end) implementada. Atualmente desenvolvendo a interface do usuário (Front-end) com TypeScript e React.
 
+#### [Filtro de Contatos Inteligente - Ferramenta Web Client-Side](https://github.com/rafaelmaiia/whatsapp-leads-cleaner)
+Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade real do meu trabalho: a automação de um processo manual de comparação de listas de contatos para gestão dos leads. A aplicação é 100% client-side, construída com JavaScript puro para garantir performance e total privacidade dos dados.
+
+* **Tecnologias:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+).
+* **Status:** Concluído e em uso.
+
 ---
 
 ### 📚 Projetos de Estudo
