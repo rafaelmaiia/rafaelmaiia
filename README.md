@@ -26,7 +26,7 @@ Atualmente, busco ativamente uma oportunidade de estágio ou desenvolvedor júni
 
 ### 🌟 Projeto Autoral
 
-#### [Mar de Beleza System - Sistema de Agendamento para Salão de Beleza](https://github.com/rafaelmaiia/mar-de-beleza-system)
+#### [Mar de Beleza System - Sistema de Agendamento para Salão de Beleza](https://github.com/rafaelmaiia/portfolio-mar-de-beleza)
 Este é o projeto ao qual estou me dedicando atualmente. A ideia nasceu de uma necessidade real de otimizar a gestão de horários no salão da minha irmã. Estou construindo uma API RESTful do zero para cuidar dos agendamentos, clientes e serviços, aplicando conceitos de arquitetura e boas práticas.
 
 * **Tecnologias:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5.
