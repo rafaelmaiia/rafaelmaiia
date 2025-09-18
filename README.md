@@ -1,13 +1,12 @@
 # Hi 👋, I'm Rafael Maia 😁
 
-### Desenvolvedor Back-End | Java & Spring Ecosystem
+### Desenvolvedor Full-Stack | Java & Spring Ecosystem
 
-A programação surgiu para mim como um hobby, mas me encantei com a construção de soluções lógicas e funcionais, que me motivou a buscar uma transição de carreira estruturada. Com isso em mente, desde 2022 venho dedicando aos estudos na área e também estou me graduando em Análise e Desenvolvimento de Sistemas, onde venho direcionando minha prática para o ecossistema Java e Spring.
+A programação começou como hobby, mas rapidamente me encantei com a construção de soluções lógicas e funcionais, o que me motivou a buscar uma transição de carreira estruturada. Desde 2022, dedico-me aos estudos na área e estou me graduando em Análise e Desenvolvimento de Sistemas, com foco no ecossistema Java e Spring.
 
-Desde então, venho aplicando meus conhecimentos em projetos de estudo e também em um projeto autoral, um sistema de gestão de agendamentos e clientes para um salão de beleza visando transformar uma necessidade real em software.
+Desde então, tenho aplicado meus conhecimentos em projetos de estudo e em um projeto autoral: um **sistema full-stack para digitalizar a gestão de um salão de beleza**, transformando uma necessidade real de uma **empresa parceira do setor** em software funcional, atualmente em produção.
 
-Atualmente, busco ativamente uma oportunidade de estágio ou desenvolvedor júnior, para contribuir em um time, aprender com projetos desafiadores e acelerar meu desenvolvimento profissional na área.
-
+Atualmente, busco ativamente uma oportunidade de **estágio ou desenvolvedor júnior**, para contribuir em um time, aprender com projetos desafiadores e acelerar meu desenvolvimento profissional na área.
 
 ### Redes Sociais
 <div align="left">
@@ -26,11 +25,24 @@ Atualmente, busco ativamente uma oportunidade de estágio ou desenvolvedor júni
 
 ### 🌟 Projeto Autoral
 
-#### [Mar de Beleza System - Sistema de Agendamento para Salão de Beleza](https://github.com/rafaelmaiia/portfolio-mar-de-beleza)
-Este é o projeto ao qual estou me dedicando atualmente. A ideia nasceu de uma necessidade real de otimizar a gestão de horários no salão da minha irmã. Estou construindo uma API RESTful do zero para cuidar dos agendamentos, clientes e serviços, aplicando conceitos de arquitetura e boas práticas.
+#### [Mar de Beleza System - Sistema Completo de Gestão para Salões de Beleza](https://github.com/rafaelmaiia/portfolio-mar-de-beleza)
+O **Mar de Beleza System** é um sistema **full stack** desenvolvido para otimizar e digitalizar a gestão de um salão de beleza.  
+Desenvolvido para atender à demanda de uma **empresa parceira do setor de beleza**, melhora o controle de agenda, pagamentos, clientes e profissionais. O projeto nasceu como uma API de agendamentos e evoluiu para um **sistema completo de gestão**, já em produção e preparado para escalar.
 
-* **Tecnologias:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5.
-* **Status:** API RESTful (Back-end) implementada. Atualmente desenvolvendo a interface do usuário (Front-end) com TypeScript e React.
+* **Principais Funcionalidades:**
+  * Cadastro e gerenciamento de clientes, profissionais e contatos.
+  * Controle de agendamentos (visualização por dia, semana e mês).
+  * Registro de pagamentos e métodos escolhidos.
+  * Painel administrativo responsivo para gestão centralizada.
+
+* **Tecnologias Utilizadas:**
+  * **Back-end:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5.
+  * **Front-end:** React + TypeScript, Vite, Tailwind CSS.
+  * **Infraestrutura:** Deploy containerizado e versionado.
+
+* **Status Atual:**
+  * ✅ Sistema em produção.
+  * 🚀 Demo pública em breve (link será adicionado aqui).
 
 #### [Filtro de Contatos Inteligente - Ferramenta Web Client-Side](https://github.com/rafaelmaiia/whatsapp-leads-cleaner)
 Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade real do meu trabalho: a automação de um processo manual de comparação de listas de contatos para gestão dos leads. A aplicação é 100% client-side, construída com JavaScript puro para garantir performance e total privacidade dos dados.
@@ -55,10 +67,12 @@ Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade re
 
 ### Tecnologias e Ferramentas
 
-* **Linguagens & Frameworks:** Java, Spring Framework (Boot, Security, Data JPA), JavaScript, React
-* **Bancos de Dados:** PostgreSQL, MySQL, H2
-* **Testes:** JUnit 5, Mockito
-* **Ferramentas & DevOps:** Git, GitHub, Docker, Kubernetes, Maven, Postman, APIs RESTful
+* **Back-end:** Java 8+, Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, Microservices Architecture, Flyway
+* **Front-end:** JavaScript, React, TypeScript, Vite, Tailwind CSS 
+* **Bancos de Dados:** PostgreSQL, MySQL, H2  
+* **Testes Automatizados:** JUnit 5, Mockito, Rest Assured, Testcontainers  
+* **DevOps & Ferramentas:** Git, GitHub, Docker, Kubernetes, Maven, Postman  
+* **Infraestrutura & Deploy:** APIs RESTful, AWS, Railway, Vercel, CI/CD (Integração Contínua e Entrega Contínua)
 
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
