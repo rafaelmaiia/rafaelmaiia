@@ -42,7 +42,7 @@ Desenvolvido para atender à demanda de uma **empresa parceira do setor de belez
 
 * **Status Atual:**
   * ✅ Sistema em produção.
-  * 🚀 Demo pública em breve (link será adicionado aqui).
+  * 🚀 [Acesse a Demo pública](https://beauty-manager-demo.vercel.app/).
 
 #### [Filtro de Contatos Inteligente - Ferramenta Web Client-Side](https://github.com/rafaelmaiia/whatsapp-leads-cleaner)
 Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade real do meu trabalho: a automação de um processo manual de comparação de listas de contatos para gestão dos leads. A aplicação é 100% client-side, construída com JavaScript puro para garantir performance e total privacidade dos dados.
