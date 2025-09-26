@@ -6,7 +6,7 @@ A programação começou como hobby, mas rapidamente me encantei com a construç
 
 Desde então, tenho aplicado meus conhecimentos em projetos de estudo e em um projeto autoral: um **sistema full-stack para digitalizar a gestão de um salão de beleza**, transformando uma necessidade real de uma **empresa parceira do setor** em software funcional, atualmente em produção.
 
-Atualmente, busco ativamente uma oportunidade de **estágio ou desenvolvedor júnior**, para contribuir em um time, aprender com projetos desafiadores e acelerar meu desenvolvimento profissional na área.
+Atualmente, estou em busca de oportunidades para atuar em **projetos desafiadores** utilizando **Java, Spring Boot e React**, contribuindo com minhas habilidades e aprendendo continuamente em equipes colaborativas.
 
 ### Redes Sociais
 <div align="left">
