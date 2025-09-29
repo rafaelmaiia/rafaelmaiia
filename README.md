@@ -26,7 +26,7 @@ Atualmente, estou em busca de oportunidades para atuar em **projetos desafiadore
 ### 🌟 Projeto Autoral
 
 #### [Mar de Beleza - Sistema Completo de Gestão para Salões de Beleza](https://github.com/rafaelmaiia/portfolio-mar-de-beleza)
-O **Mar de Beleza System** é um sistema **full stack** desenvolvido para otimizar e digitalizar a gestão de um salão de beleza.  
+O **Mar de Beleza** é um sistema **full stack** desenvolvido para otimizar e digitalizar a gestão de um salão de beleza.  
 Desenvolvido para atender à demanda de uma **empresa parceira do setor de beleza**, melhora o controle de agenda, pagamentos, clientes e profissionais. O projeto nasceu como uma API de agendamentos e evoluiu para um **sistema completo de gestão**, já em produção e preparado para escalar.
 
 * **Principais Funcionalidades:**
