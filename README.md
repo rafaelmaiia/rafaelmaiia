@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full-Stack | Java & Spring Ecosystem
 
-A programação começou como hobby, mas rapidamente me encantei com a construção de soluções lógicas e funcionais, o que me motivou a buscar uma transição de carreira estruturada. Desde 2022, dedico-me aos estudos na área e estou me graduando em Análise e Desenvolvimento de Sistemas, com foco no ecossistema Java e Spring.
+A programação começou como hobby, mas rapidamente me encantei com a construção de soluções lógicas e funcionais, o que me motivou a buscar uma transição de carreira estruturada. Desde 2021, dedico-me aos estudos na área e estou me graduando em Análise e Desenvolvimento de Sistemas, com foco no ecossistema Java e Spring.
 
 Desde então, tenho aplicado meus conhecimentos em projetos de estudo e em um projeto autoral: um **sistema full-stack para digitalizar a gestão de um salão de beleza**, transformando uma necessidade real de uma **empresa parceira do setor** em software funcional, atualmente em produção.
 
