@@ -1,12 +1,16 @@
 # Hi 👋, I'm Rafael Maia 😁
 
-### Desenvolvedor Full-Stack | Java & Spring Ecosystem
+### Desenvolvedor Full-Stack (Product-Oriented) | Java & Spring
 
-A programação começou como hobby, mas rapidamente me encantei com a construção de soluções lógicas e funcionais, o que me motivou a buscar uma transição de carreira estruturada. Desde 2021, dedico-me aos estudos na área e estou me graduando em Análise e Desenvolvimento de Sistemas, com foco no ecossistema Java e Spring.
+Sou Desenvolvedor Full-Stack orientado a produto, com formação em Análise e Desenvolvimento de Sistemas e forte atuação em backend com Java e Spring.
 
-Desde então, tenho aplicado meus conhecimentos em projetos de estudo e em um projeto autoral: um **sistema full-stack para digitalizar a gestão de um salão de beleza**, transformando uma necessidade real de uma **empresa parceira do setor** em software funcional, atualmente em produção.
+Atuo na concepção, desenvolvimento e evolução de sistemas em produção, participando desde a compreensão do problema de negócio e modelagem de domínio até decisões arquiteturais e entrega técnica.
 
-Atualmente, estou em busca de oportunidades para atuar em **projetos desafiadores** utilizando **Java, Spring Boot e React**, contribuindo com minhas habilidades e aprendendo continuamente em equipes colaborativas.
+Sou responsável pelo desenvolvimento e manutenção de um sistema full-stack de gestão para um salão de beleza, atualmente em produção, que substituiu processos manuais e gerou ganhos reais de eficiência operacional e previsibilidade da gestão.
+
+Tenho foco em construir software sustentável, com APIs bem estruturadas, regras de negócio claras e código preparado para evoluir junto com o produto.
+
+---
 
 ### Redes Sociais
 <div align="left">
@@ -21,58 +25,38 @@ Atualmente, estou em busca de oportunidades para atuar em **projetos desafiadore
   </a>
 </div>
 
-## Projetos
+---
 
-### 🌟 Projeto Autoral
+## Case Principal
 
-#### [Mar de Beleza - Sistema Completo de Gestão para Salões de Beleza](https://github.com/rafaelmaiia/portfolio-mar-de-beleza)
-O **Mar de Beleza** é um sistema **full stack** desenvolvido para otimizar e digitalizar a gestão de um salão de beleza.  
-Desenvolvido para atender à demanda de uma **empresa parceira do setor de beleza**, melhora o controle de agenda, pagamentos, clientes e profissionais. O projeto nasceu como uma API de agendamentos e evoluiu para um **sistema completo de gestão**, já em produção e preparado para escalar.
+### [Mar de Beleza — Sistema de Gestão para Salões de Beleza (Cliente em Produção)](https://github.com/rafaelmaiia/portfolio-beautymanager)
 
-* **Principais Funcionalidades:**
-  * Cadastro e gerenciamento de clientes, profissionais e contatos.
-  * Controle de agendamentos (visualização por dia, semana e mês).
-  * Registro de pagamentos e métodos escolhidos.
-  * Painel administrativo responsivo para gestão centralizada.
+O **Mar de Beleza** é um sistema de gestão full-stack atualmente em produção, utilizado no dia a dia de um salão de beleza real como primeiro cliente ativo do produto **BeautyOn**, uma plataforma SaaS em evolução.
 
-* **Tecnologias Utilizadas:**
-  * **Back-end:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5.
-  * **Front-end:** React + TypeScript, Vite, Tailwind CSS.
-  * **Infraestrutura:** Deploy containerizado e versionado.
+O sistema substituiu controles manuais baseados em agenda física, WhatsApp e planilhas, centralizando agendamentos, clientes, profissionais e registros financeiros em uma única plataforma.
 
-* **Status Atual:**
-  * ✅ Sistema em produção.
-  * 🚀 <a href="https://beauty-manager-demo.vercel.app/" target="_blank">Acesse a Demo pública</a>
+O produto foi desenvolvido com foco em **clareza de domínio, usabilidade e sustentabilidade técnica**, já preparado para evolução como plataforma SaaS.
 
-#### [Filtro de Contatos Inteligente - Ferramenta Web Client-Side](https://github.com/rafaelmaiia/whatsapp-leads-cleaner)
-Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade real do meu trabalho: a automação de um processo manual de comparação de listas de contatos para gestão dos leads. A aplicação é 100% client-side, construída com JavaScript puro para garantir performance e total privacidade dos dados.
+Além do ambiente em produção, o sistema conta com uma **demo pública (Beauty Manager Demo)** utilizada para apresentação do produto e validação funcional.
 
-* **Tecnologias:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+).
-* **Status:** Concluído e em uso.
+#### Tecnologias Utilizadas
+- **Back-end:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5  
+- **Front-end:** React, TypeScript, Vite, Tailwind CSS  
+- **Infraestrutura:** Deploy containerizado e versionado  
+
+#### Status Atual
+- ✅ Sistema em produção  
+- 🚀 [Acesse a demo pública](https://beauty-manager-demo.vercel.app/)
 
 ---
 
-### 📚 Projetos de Estudo
-*Abaixo estão projetos que desenvolvi seguindo cursos de referência do mercado para aprofundar meu conhecimento em tecnologias específicas.*
+## Principais Tecnologias
 
-* **[MetaSales - Monitoramento de Vendas](https://github.com/rafaelmaiia/dsmeta)**
-    * **Contexto:** Desenvolvido na Semana Spring React da DevSuperior. O projeto foi essencial para praticar a integração full stack, desde a criação da API até o consumo dos dados em um front-end interativo com React.
-    * **Stack:** Java, Spring Boot, React, PostgreSQL, Twilio.
-
-* **[BookManager API - Gerenciamento de Livros](https://github.com/rafaelmaiia/rest-with-springboot-erudio)**
-    * **Contexto:** Baseado no curso "REST APIs RESTFul do 0 à AWS". Foi um mergulho profundo em funcionalidades críticas para um back-end, como autenticação com JWT, testes unitários com Mockito, versionamento de banco com Flyway e o processo de deploy com Docker na AWS.
-    * **Stack:** Java 17, Spring Boot 3, MySQL, Docker, JWT, Swagger, AWS.
-
----
-
-### Tecnologias e Ferramentas
-
-* **Back-end:** Java 8+, Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, Microservices Architecture, Flyway
-* **Front-end:** JavaScript, React, TypeScript, Vite, Tailwind CSS 
-* **Bancos de Dados:** PostgreSQL, MySQL, H2  
-* **Testes Automatizados:** JUnit 5, Mockito, Rest Assured, Testcontainers  
-* **DevOps & Ferramentas:** Git, GitHub, Docker, Kubernetes, Maven, Postman  
-* **Infraestrutura & Deploy:** APIs RESTful, AWS, Railway, Vercel, CI/CD (Integração Contínua e Entrega Contínua)
+- **Backend:** Java, Spring Boot, Spring Security, JPA, APIs REST  
+- **Frontend:** React, TypeScript  
+- **Dados:** PostgreSQL, MySQL  
+- **Qualidade:** JUnit 5, Mockito  
+- **Infraestrutura:** Docker, CI/CD, Deploy em cloud  
 
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -95,12 +79,3 @@ Ferramenta desenvolvida por iniciativa própria para otimizar uma necessidade re
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rafaelmaiia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelmaiia&theme=dark&hide_border=false)
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmaiia&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafaelmaiia" />
