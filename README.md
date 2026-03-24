@@ -1,14 +1,14 @@
-# Hi 👋, I'm Rafael Maia 😁
+# Hi, I'm Rafael Maia 👋😁
 
 ### Desenvolvedor Full-Stack (Product-Oriented) | Java & Spring
 
-Sou Desenvolvedor Full-Stack orientado a produto, com formação em Análise e Desenvolvimento de Sistemas e forte atuação em backend com Java e Spring.
+Sou desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas, com foco em backend com Java e Spring e na construção de produtos digitais.
 
-Atuo na concepção, desenvolvimento e evolução de sistemas em produção, participando desde a compreensão do problema de negócio e modelagem de domínio até decisões arquiteturais e entrega técnica.
+No dia a dia, trabalho desde a conversa sobre o problema de negócio até depois que a funcionalidade entra em produção. Participo da modelagem de domínio, das decisões de arquitetura e da parte mais “pé no chão”: garantir que o que foi entregue realmente resolva o problema de quem usa.
 
-Sou responsável pelo desenvolvimento e manutenção de um sistema full-stack de gestão para um salão de beleza, atualmente em produção, que substituiu processos manuais e gerou ganhos reais de eficiência operacional e previsibilidade da gestão.
+Hoje cuido de um sistema de gestão para um salão de beleza, em produção com cliente real. Ele substituiu agenda de papel, conversas soltas no WhatsApp e planilhas por uma aplicação única, que concentra agendamentos, clientes, profissionais e financeiro, gerando uma **redução estimada de 35–40% no tempo operacional diário** e maior previsibilidade financeira. A ideia é seguir evoluindo esse produto como uma plataforma SaaS.
 
-Tenho foco em construir software sustentável, com APIs bem estruturadas, regras de negócio claras e código preparado para evoluir junto com o produto.
+Gosto de escrever software sustentável, com APIs claras, regras de negócio bem definidas e código que possa ser refatorado e ampliado sem virar um caos.
 
 ---
 
@@ -31,13 +31,11 @@ Tenho foco em construir software sustentável, com APIs bem estruturadas, regras
 
 ### [Mar de Beleza — Sistema de Gestão para Salões de Beleza (Cliente em Produção)](https://github.com/rafaelmaiia/portfolio-beautymanager)
 
-O **Mar de Beleza** é um sistema de gestão full-stack atualmente em produção, utilizado no dia a dia de um salão de beleza real como primeiro cliente ativo do produto **BeautyOn**, uma plataforma SaaS em evolução.
+O **Mar de Beleza** é um sistema full-stack usado no dia a dia de um salão de beleza real como primeiro cliente do produto **BeautyOn**. Toda a operação que antes vivia em agenda física e mensagens agora roda em uma única aplicação web de forma organizada.
 
-O sistema substituiu controles manuais baseados em agenda física, WhatsApp e planilhas, centralizando agendamentos, clientes, profissionais e registros financeiros em uma única plataforma.
+O desenvolvimento foi focado em deixar o domínio do negócio claro e a interface simples, garantindo que a base técnica suporte o crescimento para um modelo SaaS multiplataforma.
 
-O produto foi desenvolvido com foco em **clareza de domínio, usabilidade e sustentabilidade técnica**, já preparado para evolução como plataforma SaaS.
-
-Além do ambiente em produção, o sistema conta com uma **demo pública (Beauty Manager Demo)** utilizada para apresentação do produto e validação funcional.
+Além do ambiente em produção, o sistema conta com uma **demo pública (Beauty Manager Demo)**, utilizada para apresentar o produto e validar novas funcionalidades.
 
 #### Tecnologias Utilizadas
 - **Back-end:** Java 21, Spring Boot 3, Spring Security, PostgreSQL, Docker, JUnit 5  
@@ -45,8 +43,8 @@ Além do ambiente em produção, o sistema conta com uma **demo pública (Beauty
 - **Infraestrutura:** Deploy containerizado e versionado  
 
 #### Status Atual
-- ✅ Sistema em produção  
-- 🚀 [Acesse a demo pública](https://beauty-manager-demo.vercel.app/)
+- ✅ Sistema em produção com cliente real
+- 🚀 [Demo pública disponível para testes](https://beauty-manager-demo.vercel.app/)
 
 ---
 
@@ -68,7 +66,6 @@ Além do ambiente em produção, o sistema conta com uma **demo pública (Beauty
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
