@@ -22,7 +22,7 @@ O repositório principal é privado por envolver uma aplicação em produção, 
 
 ## Case principal
 
-**Mar de Beleza — Sistema de Gestão para Salão de Beleza**
+**[Mar de Beleza — Sistema de Gestão para Salão de Beleza](https://github.com/rafaelmaiia/case-mar-de-beleza)**
 
 Sistema full-stack desenvolvido para centralizar a operação de um salão real, substituindo controles manuais por uma solução mais organizada para agenda, clientes, profissionais, serviços e financeiro.
 
