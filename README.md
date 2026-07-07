@@ -26,7 +26,7 @@ O repositório principal é privado por envolver uma aplicação em produção, 
 
 Sistema full-stack desenvolvido para centralizar a operação de um salão real, substituindo controles manuais por uma solução mais organizada para agenda, clientes, profissionais, serviços e financeiro.
 
-🔗 Case público: em breve
+🔗 [Case público](https://mar-de-beleza-case.vercel.app/)
 
 ---
 
