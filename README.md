@@ -13,7 +13,7 @@ O repositório principal é privado por envolver uma aplicação em produção, 
 ## Stack principal
 
 **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, APIs REST, JWT, Flyway  
-**Frontend:** React, TypeScript, JavaScript, Vite, TailwindCSS  
+**Frontend:** React, Next.js, TypeScript, JavaScript, Vite, TailwindCSS  
 **Banco de Dados:** PostgreSQL, MySQL, H2  
 **Testes:** JUnit 5, Mockito  
 **Ferramentas:** Docker, Git, GitHub, Vercel, Railway, Postman  
