@@ -32,11 +32,5 @@ Sistema full-stack desenvolvido para centralizar a operação de um salão real,
 
 ## Contato
 
-<div align="left">
-  <a href="mailto:rafaelmaia.developer@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
-  <a href="https://linkedin.com/in/rafaelmaiia" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-</div>
+- **[Portfólio](https://portfolio-rafaelmaia.vercel.app/)**
+- **[LinkedIn](https://linkedin.com/in/rafaelmaiia)**
